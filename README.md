@@ -13,7 +13,15 @@ INSTABUY es una aplicación web diseñada para realizar venta de productos por m
 
 ## HISTORIAS DE USUARIO
 
-[Trello](https://trello.com/b/zXhEXtKA/historias-de-usuario-instabuy)
+[TRELLO](https://trello.com/b/zXhEXtKA/historias-de-usuario-instabuy)
+
+## INSTABUY-BACKEND
+
+[BACKEND](https://github.com/InstabuyDeveloper/Instabuy-Backend)
+
+## INSTABUY-FRONTEND
+
+[FRONTEND](https://github.com/InstabuyDeveloper/Instabuy-Frontend)
 
 ## DESCRIPTION
 
